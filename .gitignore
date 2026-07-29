@@ -71,3 +71,14 @@ local_settings.py
 pip-log.txt
 # redis dumps
 *.rdb
+
+fetchVenomonData.js
+filterVenomon.js
+formatVenomonData.js
+
+learnsets.json
+venomon.json
+
+tm-renombrado.txt
+customMoves.json
+pullMoveData.js
