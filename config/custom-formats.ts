@@ -28,13 +28,12 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ["Standard"],
 		banlist: [],
 	},
-	{
+	{	
 		section: "Venova",
-		name: "Venova Random Battle",
-		desc: `Randomized teams of Pok&eacute;mon with sets that are generated to be competitively viable.`,
+		name: "[Gen 9] Venova Random Battle",
+		desc: "Randomized teams using the Venova mod.",
 		mod: 'venova',
 		team: 'random',
-		bestOfDefault: true,
-		ruleset: ['PotD', 'Obtainable', 'Species Clause', 'HP Percentage Mod', 'Cancel Mod', 'Sleep Clause Mod', 'Illusion Level Mod'],
+		ruleset: ['Obtainable', 'Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
 	},
 ];
