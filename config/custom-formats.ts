@@ -30,7 +30,7 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 	},
 	{	
 		section: "Venova",
-		name: "[Gen 9] Venova Random Battle",
+		name: "[Gen 8] Venova Random Battle",
 		desc: "Randomized teams using the Venova mod.",
 		mod: 'venova',
 		team: 'random',
