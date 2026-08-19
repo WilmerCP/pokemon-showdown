@@ -28,12 +28,20 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ["Standard"],
 		banlist: [],
 	},
-	{	
+	{
 		section: "Venova",
 		name: "[Gen 8] Venova Random Battle",
 		desc: "Randomized teams using the Venova mod.",
 		mod: 'venova',
 		team: 'random',
 		ruleset: ['Obtainable', 'Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
+	},
+	{
+		section: "Venova",
+		name: "[Gen 8] Venova Custom Random Battle",
+		desc: "Random teams built only from custom Venova species.",
+		mod: 'venova',
+		team: 'random',
+		ruleset: ['Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
 	},
 ];
