@@ -19,17 +19,13 @@ The column value will be ignored for repeat sections.
 
 export const Formats: import('../sim/dex-formats').FormatList = [
 	{
-		section: "Venova",
+		name: "[Gen 8] Venova Custom Battle",
+		desc: "Teams built only from custom Venova species.",
+		mod: 'venova',
+		team: 'random',
+		ruleset: ['Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
 	},
 	{
-		section: "Venova",
-		name: "Venova Adventures",
-		mod: "venova",
-		ruleset: ["Standard"],
-		banlist: [],
-	},
-	{
-		section: "Venova",
 		name: "[Gen 8] Venova Random Battle",
 		desc: "Randomized teams using the Venova mod.",
 		mod: 'venova',
@@ -37,7 +33,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['Obtainable', 'Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
 	},
 	{
-		section: "Venova",
 		name: "[Gen 8] Venova Custom Random Battle",
 		desc: "Random teams built only from custom Venova species.",
 		mod: 'venova',

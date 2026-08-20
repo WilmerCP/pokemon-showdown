@@ -1,10 +1,10 @@
 export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
-  "poseisoninfernal": {
+  "posesioninfernal": {
     "num": -1,
     "accuracy": 80,
     "basePower": 100,
     "category": "Special",
-    "name": "Posesión Infernal",
+    "name": "Posesion Infernal",
     "pp": 10,
     "type": "Dark",
     "target": "normal",
@@ -18,7 +18,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "status": "par"
     }
   },
-  "silbido": {
+  "silbidoespectral": {
     "num": -2,
     "accuracy": 80,
     "basePower": 100,
@@ -40,7 +40,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         }
     }
   },
-  "hacha": {
+  "hachazo": {
     "num": -3,
     "accuracy": 85,
     "basePower": 110,
@@ -59,17 +59,17 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
       "chance": 100,
       "self": {
         "boosts": {
-          "spa": 1
+          "def": 1
         }
       }
     }
   },
-  "pluma": {
+  "plumamagica": {
     "num": -4,
     "accuracy": 100,
     "basePower": 100,
     "category": "Special",
-    "name": "Plúma mágica",
+    "name": "Pluma magica",
     "pp": 15,
     "type": "Fairy",
     "target": "normal",
@@ -83,12 +83,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "status": "brn"
     }
   },
-  "espada": {
+  "venenolaser": {
     "num": -5,
     "accuracy": 95,
     "basePower": 90,
     "category": "Physical",
-    "name": "Veneno Láser",
+    "name": "Veneno Laser",
     "pp": 20,
     "type": "Poison",
     "target": "normal",
@@ -102,7 +102,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "status": "psn"
     }
   },
-  "tridente": {
+  "acuatridente": {
     "num": -6,
     "accuracy": 100,
     "basePower": 70,
@@ -125,7 +125,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
       }
     }
   },
-  "estocada": {
+  "estocadamarcial": {
     "num": -7,
     "accuracy": 95,
     "basePower": 90,
@@ -144,7 +144,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "status": "slp"
     }
   },
-  "balazo": {
+  "proyectilesberetta": {
     "num": -8,
     "accuracy": 100,
     "basePower": 30,
@@ -160,7 +160,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
     },
 	"multihit": [2, 5],
   },
-  "cubrir": {
+  "cubrebasura": {
     "num": -9,
     "accuracy": 0,
     "basePower": 0,
@@ -178,12 +178,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "def": 2,
     },
   },
-  "cantohada": {
+  "cantomagico": {
     "num": -10,
     "accuracy": 100,
     "basePower": 60,
     "category": "Special",
-    "name": "Canto Mágico",
+    "name": "Canto Magico",
     "pp": 30,
     "type": "Fairy",
     "target": "normal",
@@ -207,12 +207,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         },
     ],
   },
-  "cantodark": {
+  "cantooscuro": {
     "num": -11,
     "accuracy": 100,
     "basePower": 60,
     "category": "Special",
-    "name": "Canto oscuro",
+    "name": "Canto Oscuro",
     "pp": 30,
     "type": "Dark",
     "target": "normal",
@@ -236,7 +236,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         },
     ],
   },
-  "cantofuego": {
+  "notasllameantes": {
     "num": -12,
     "accuracy": 100,
     "basePower": 90,
@@ -261,7 +261,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         },
     ],
   },
-  "comecable": {
+  "comecables": {
     "num": -13,
     "accuracy": 100,
     "basePower": 80,
@@ -300,7 +300,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
       "mirror": 1
     }
   },
-  "aguapink": {
+  "acuarosa": {
     "num": -15,
     "accuracy": 100,
     "basePower": 90,
@@ -327,12 +327,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         }
     },
   },
-  "darkenergy": {
+  "energiaoscura": {
     "num": -16,
     "accuracy": 80,
     "basePower": 100,
     "category": "Special",
-    "name": "Energía Oscura",
+    "name": "Energia Oscura",
     "pp": 20,
     "type": "Dark",
     "target": "normal",
@@ -346,7 +346,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         this.add('-clearboost', target);
     },
   },
-  "flechazo": {
+  "flechanociva": {
     "num": -17,
     "accuracy": 90,
     "basePower": 110,
@@ -365,7 +365,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         "status": "psn"
     }
   },
-  "arepa": {
+  "arepazos": {
     "num": -18,
     "accuracy": 100,
     "basePower": 110,
@@ -380,12 +380,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
       "mirror": 1
     }
   },
-  "abejorro": {
+  "picaduraextrema": {
     "num": -19,
     "accuracy": 100,
     "basePower": 65,
     "category": "Physical",
-    "name": "Picadura extrema",
+    "name": "Picadura Extrema",
     "pp": 10,
     "type": "Bug",
     "target": "normal",
@@ -401,7 +401,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
         }
     },
   },
-  "llorar": {
+  "sollozo": {
     "num": -20,
     "accuracy": 90,
     "basePower": 60,
@@ -417,12 +417,12 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
     },
 	"drain": [1, 2]
   },
-  "craneo": {
+  "rompecraneos": {
     "num": -21,
     "accuracy": 80,
     "basePower": 110,
     "category": "Physical",
-    "name": "Rompecráneos",
+    "name": "Rompecraneos",
     "pp": 15,
     "type": "Rock",
     "target": "normal",

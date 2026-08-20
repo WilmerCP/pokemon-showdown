@@ -2541,9 +2541,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "heightm": 2.9,
     "weightkg": 73
   },
-  "knock": {
+  "knoc": {
     "num": -88,
-    "name": "Knock",
+    "name": "Knoc",
     "types": [
       "Ghost"
     ],

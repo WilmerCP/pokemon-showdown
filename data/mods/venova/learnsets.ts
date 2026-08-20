@@ -407,7 +407,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
         "8L70",
         "8M"
       ],
-      "hacha": [
+      "hachazo": [
         "8L80"
       ],
       "roar": [
@@ -961,7 +961,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "flareblitz": [
         "8L77"
       ],
-      "pluma": [
+      "plumamagica": [
         "8L78"
       ],
       "honeclaws": [
@@ -1543,10 +1543,10 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "hydropump": [
         "8L60"
       ],
-      "espada": [
+      "venenolaser": [
         "8L77"
       ],
-      "tridente": [
+      "acuatridente": [
         "8L80"
       ],
       "roar": [
@@ -2074,7 +2074,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "moonblast": [
         "8L45"
       ],
-      "cantohada": [
+      "cantomagico": [
         "8L55"
       ],
       "toxic": [
@@ -2260,7 +2260,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "nightdaze": [
         "8L50"
       ],
-      "cantodark": [
+      "cantooscuro": [
         "8L55"
       ],
       "airslash": [
@@ -2903,7 +2903,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "doubleedge": [
         "8L39"
       ],
-      "cubrir": [
+      "cubrebasura": [
         "8L40"
       ],
       "nastyplot": [
@@ -4910,7 +4910,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
         "8L58",
         "8M"
       ],
-      "comecable": [
+      "comecables": [
         "8L60"
       ],
       "gigaimpact": [
@@ -9489,7 +9489,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
         "8L29",
         "8M"
       ],
-      "aguapink": [
+      "acuarosa": [
         "8L30"
       ],
       "aquatail": [
@@ -11682,7 +11682,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "mysticalfire": [
         "8L60"
       ],
-      "darkenergy": [
+      "energiaoscura": [
         "8L65"
       ],
       "lusterpurge": [
@@ -11945,7 +11945,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "psychoboost": [
         "8L55"
       ],
-      "flechazo": [
+      "flechanociva": [
         "8L65"
       ],
       "thousandarrows": [
@@ -13662,7 +13662,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "doubleedge": [
         "8L58"
       ],
-      "cantofuego": [
+      "notasllameantes": [
         "8L60"
       ],
       "stoneedge": [
@@ -15678,7 +15678,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "extremespeed": [
         "8L65"
       ],
-      "estocada": [
+      "estocadamarcial": [
         "8L80"
       ],
       "toxic": [
@@ -15782,7 +15782,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       ]
     }
   },
-  "knock": {
+  "knoc": {
     "learnset": {
       "acidspray": [
         "8E"
@@ -16695,7 +16695,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "nightmare": [
         "8L61"
       ],
-      "poseisoninfernal": [
+      "posesioninfernal": [
         "8L70"
       ],
       "toxic": [
@@ -17154,7 +17154,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "boneclub": [
         "8L61"
       ],
-      "silbido": [
+      "silbidoespectral": [
         "8L77"
       ],
       "roar": [
@@ -23207,7 +23207,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "bugbuzz": [
         "8L73"
       ],
-      "abejorro": [
+      "picaduraextrema": [
         "8L77"
       ],
       "dragonrush": [
@@ -25894,7 +25894,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "shadowball": [
         "8L63"
       ],
-      "llorar": [
+      "sollozo": [
         "8L69"
       ],
       "nightslash": [
@@ -26316,7 +26316,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "shadowclaw": [
         "8L77"
       ],
-      "craneo": [
+      "rompecraneos": [
         "8L79"
       ],
       "firefang": [
@@ -27728,7 +27728,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
         "8L71",
         "8M"
       ],
-      "balazo": [
+      "proyectilesberetta": [
         "8L77"
       ],
       "bravebird": [
@@ -28045,7 +28045,7 @@ export const Learnsets: import('../../../sim/dex-species').ModdedLearnsetDataTab
       "mefirst": [
         "8L70"
       ],
-      "cantohada": [
+      "cantomagico": [
         "8L74"
       ],
       "batonpass": [
