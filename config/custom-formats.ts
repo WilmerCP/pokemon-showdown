@@ -22,7 +22,6 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		name: "[Gen 8] Venova Custom Battle",
 		desc: "Teams built only from custom Venova species.",
 		mod: 'venova',
-		team: 'random',
 		ruleset: ['Species Clause', 'HP Percentage Mod', 'Sleep Clause Mod', 'Cancel Mod'],
 	},
 	{

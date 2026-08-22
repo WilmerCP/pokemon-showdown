@@ -69,7 +69,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
     "accuracy": 100,
     "basePower": 100,
     "category": "Special",
-    "name": "Pluma magica",
+    "name": "Pluma Magica",
     "pp": 15,
     "type": "Fairy",
     "target": "normal",
@@ -241,7 +241,7 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
     "accuracy": 100,
     "basePower": 90,
     "category": "Special",
-    "name": "Notas llameantes",
+    "name": "Notas Llameantes",
     "pp": 30,
     "type": "Fire",
     "target": "normal",
@@ -454,5 +454,3 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
     "drain": [1, 2]
   }
 }
-
-
