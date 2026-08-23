@@ -1,5 +1,6 @@
-// data/mods/mimod/pokedex.ts
-export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = {
+// data/mods/venova/pokedex.ts
+export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable = 
+{
   "bullchub": {
     "num": -1,
     "name": "Bullchub",
@@ -186,7 +187,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Torrent",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -214,7 +215,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Torrent",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -243,7 +244,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Torrent",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -272,7 +273,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Swarm",
-      "H": "Serenegrace"
+      "H": "Serene Grace"
     },
     "eggGroups": [
       "Undiscovered"
@@ -301,7 +302,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Swarm",
-      "H": "Serenegrace"
+      "H": "Serene Grace"
     },
     "eggGroups": [
       "Undiscovered"
@@ -330,7 +331,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Swarm",
-      "H": "Serenegrace"
+      "H": "Serene Grace"
     },
     "eggGroups": [
       "Undiscovered"
@@ -359,7 +360,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Sniper",
-      "1": "Keeneye",
+      "1": "Keen Eye",
       "H": "Hustle"
     },
     "eggGroups": [
@@ -389,7 +390,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Sniper",
-      "1": "Keeneye",
+      "1": "Keen Eye",
       "H": "Hustle"
     },
     "eggGroups": [
@@ -419,7 +420,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Sniper",
-      "1": "Keeneye",
+      "1": "Keen Eye",
       "H": "Pixilate"
     },
     "eggGroups": [
@@ -449,7 +450,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Sniper",
-      "1": "Keeneye",
+      "1": "Keen Eye",
       "H": "Darklate"
     },
     "eggGroups": [
@@ -478,7 +479,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 56
     },
     "abilities": {
-      "0": "Motordrive",
+      "0": "Motor Drive",
       "H": "Aerilate"
     },
     "eggGroups": [
@@ -507,7 +508,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Motordrive",
+      "0": "Motor Drive",
       "H": "Aerilate"
     },
     "eggGroups": [
@@ -594,7 +595,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Runaway",
+      "0": "Run Away",
       "1": "Pickup",
       "H": "Moody"
     },
@@ -624,7 +625,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Runaway",
+      "0": "Run Away",
       "1": "Pickup",
       "H": "Moody"
     },
@@ -654,7 +655,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 55
     },
     "abilities": {
-      "0": "Voltabsorb",
+      "0": "Volt Absorb",
       "H": "Unnerve"
     },
     "eggGroups": [
@@ -683,7 +684,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Voltabsorb",
+      "0": "Volt Absorb",
       "H": "Unnerve"
     },
     "eggGroups": [
@@ -712,7 +713,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Static",
-      "H": "Serenegrace"
+      "H": "Serene Grace"
     },
     "eggGroups": [
       "Undiscovered"
@@ -740,7 +741,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Poisonpoint",
+      "0": "Poison Point",
       "1": "Intimidate",
       "H": "Unnerve"
     },
@@ -770,8 +771,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 40
     },
     "abilities": {
-      "0": "Rockhead",
-      "H": "Roughskin"
+      "0": "Rock Head",
+      "H": "Rough Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -799,8 +800,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Rockhead",
-      "H": "Roughskin"
+      "0": "Rock Head",
+      "H": "Rough Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -828,7 +829,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Thickfat",
+      "1": "Thick Fat",
       "H": "Unburden"
     },
     "eggGroups": [
@@ -857,7 +858,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Thickfat",
+      "1": "Thick Fat",
       "H": "Unburden"
     },
     "eggGroups": [
@@ -887,7 +888,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Prankster",
-      "1": "Thickfat",
+      "1": "Thick Fat",
       "H": "Unburden"
     },
     "eggGroups": [
@@ -915,8 +916,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 50
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Flamebody",
+      "0": "Keen Eye",
+      "1": "Flame Body",
       "H": "Hustle"
     },
     "eggGroups": [
@@ -944,8 +945,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Flamebody",
+      "0": "Keen Eye",
+      "1": "Flame Body",
       "H": "Hustle"
     },
     "eggGroups": [
@@ -973,9 +974,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 85
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Flamebody",
-      "H": "Sheerforce"
+      "0": "Keen Eye",
+      "1": "Flame Body",
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1003,9 +1004,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Sweetveil",
-      "1": "Leafguard",
-      "H": "Owntempo"
+      "0": "Sweet Veil",
+      "1": "Leaf Guard",
+      "H": "Own Tempo"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1033,9 +1034,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 60
     },
     "abilities": {
-      "0": "Sweetveil",
-      "1": "Leafguard",
-      "H": "Owntempo"
+      "0": "Sweet Veil",
+      "1": "Leaf Guard",
+      "H": "Own Tempo"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1063,7 +1064,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Lightningrod",
+      "0": "Lightning Rod",
       "1": "Static",
       "H": "Drought"
     },
@@ -1093,7 +1094,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Lightningrod",
+      "0": "Lightning Rod",
       "1": "Static",
       "H": "Drought"
     },
@@ -1125,7 +1126,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Technician",
       "1": "Unnerve",
-      "H": "Friendguard"
+      "H": "Friend Guard"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1155,7 +1156,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Technician",
       "1": "Unnerve",
-      "H": "Friendguard"
+      "H": "Friend Guard"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1184,7 +1185,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Insomnia",
-      "1": "Shadowtag",
+      "1": "Shadow Tag",
       "H": "Infiltrator"
     },
     "eggGroups": [
@@ -1214,7 +1215,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Insomnia",
-      "1": "Shadowtag",
+      "1": "Shadow Tag",
       "H": "Infiltrator"
     },
     "eggGroups": [
@@ -1243,7 +1244,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Adaptability",
-      "H": "Runaway"
+      "H": "Run Away"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1300,8 +1301,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Shadowtag",
-      "H": "Effectspore"
+      "1": "Shadow Tag",
+      "H": "Effect Spore"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1329,9 +1330,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 25
     },
     "abilities": {
-      "0": "Rockhead",
-      "1": "Sandforce",
-      "H": "Sapsipper"
+      "0": "Rock Head",
+      "1": "Sand Force",
+      "H": "Sap Sipper"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1359,9 +1360,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 60
     },
     "abilities": {
-      "0": "Rockhead",
-      "1": "Sandforce",
-      "H": "Sapsipper"
+      "0": "Rock Head",
+      "1": "Sand Force",
+      "H": "Sap Sipper"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1389,9 +1390,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Flashfire",
-      "H": "Flamebody"
+      "0": "Keen Eye",
+      "1": "Flash Fire",
+      "H": "Flame Body"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1419,9 +1420,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Flashfire",
-      "H": "Flamebody"
+      "0": "Keen Eye",
+      "1": "Flash Fire",
+      "H": "Flame Body"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1449,7 +1450,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Sturdy",
-      "H": "Sandforce"
+      "H": "Sand Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1477,8 +1478,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 50
     },
     "abilities": {
-      "0": "Ironbarbs",
-      "H": "Sandforce"
+      "0": "Iron Barbs",
+      "H": "Sand Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1536,8 +1537,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Synchronize",
-      "1": "Swiftswim",
-      "H": "Magicbounce"
+      "1": "Swift Swim",
+      "H": "Magic Bounce"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1566,8 +1567,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Synchronize",
-      "1": "Swiftswim",
-      "H": "Magicbounce"
+      "1": "Swift Swim",
+      "H": "Magic Bounce"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1596,8 +1597,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Synchronize",
-      "1": "Swiftswim",
-      "H": "Magicbounce"
+      "1": "Swift Swim",
+      "H": "Magic Bounce"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1625,7 +1626,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Cursedbody",
+      "0": "Cursed Body",
       "H": "Defiant"
     },
     "eggGroups": [
@@ -1654,7 +1655,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 95
     },
     "abilities": {
-      "0": "Cursedbody",
+      "0": "Cursed Body",
       "H": "Defiant"
     },
     "eggGroups": [
@@ -1683,7 +1684,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 60
     },
     "abilities": {
-      "0": "Strongjaw",
+      "0": "Strong Jaw",
       "H": "Limber"
     },
     "eggGroups": [
@@ -1712,7 +1713,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 95
     },
     "abilities": {
-      "0": "Strongjaw",
+      "0": "Strong Jaw",
       "H": "Limber"
     },
     "eggGroups": [
@@ -1800,7 +1801,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Download",
-      "H": "Swiftswim"
+      "H": "Swift Swim"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1828,7 +1829,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Magicguard",
+      "0": "Magic Guard",
       "H": "Illuminate"
     },
     "eggGroups": [
@@ -1857,7 +1858,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 105
     },
     "abilities": {
-      "0": "Magicguard",
+      "0": "Magic Guard",
       "H": "Illuminate"
     },
     "eggGroups": [
@@ -1886,7 +1887,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 120
     },
     "abilities": {
-      "0": "Magicguard",
+      "0": "Magic Guard",
       "H": "Infiltrator"
     },
     "eggGroups": [
@@ -1944,9 +1945,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Swiftswim",
-      "1": "Raindish",
-      "H": "Voltabsorb"
+      "0": "Swift Swim",
+      "1": "Rain Dish",
+      "H": "Volt Absorb"
     },
     "eggGroups": [
       "Undiscovered"
@@ -1974,9 +1975,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 110
     },
     "abilities": {
-      "0": "Swiftswim",
-      "1": "Raindish",
-      "H": "Voltabsorb"
+      "0": "Swift Swim",
+      "1": "Rain Dish",
+      "H": "Volt Absorb"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2004,7 +2005,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 40
     },
     "abilities": {
-      "0": "Ironfist",
+      "0": "Iron Fist",
       "1": "Soundproof",
       "H": "Gluttony"
     },
@@ -2034,7 +2035,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 55
     },
     "abilities": {
-      "0": "Ironfist",
+      "0": "Iron Fist",
       "1": "Soundproof",
       "H": "Gluttony"
     },
@@ -2064,7 +2065,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Ironfist",
+      "0": "Iron Fist",
       "1": "Soundproof",
       "H": "Gluttony"
     },
@@ -2095,7 +2096,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Multiscale",
-      "H": "Raindish"
+      "H": "Rain Dish"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2151,9 +2152,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 20
     },
     "abilities": {
-      "0": "Flamebody",
-      "1": "Solarpower",
-      "H": "Speedboost"
+      "0": "Flame Body",
+      "1": "Solar Power",
+      "H": "Speed Boost"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2180,9 +2181,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 35
     },
     "abilities": {
-      "0": "Flamebody",
-      "1": "Solarpower",
-      "H": "Speedboost"
+      "0": "Flame Body",
+      "1": "Solar Power",
+      "H": "Speed Boost"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2210,9 +2211,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 65
     },
     "abilities": {
-      "0": "Flamebody",
-      "1": "Solarpower",
-      "H": "Speedboost"
+      "0": "Flame Body",
+      "1": "Solar Power",
+      "H": "Speed Boost"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2240,8 +2241,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Flamebody",
-      "1": "Flashfire",
+      "0": "Flame Body",
+      "1": "Flash Fire",
       "H": "Reckless"
     },
     "eggGroups": [
@@ -2270,8 +2271,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 105
     },
     "abilities": {
-      "0": "Flamebody",
-      "1": "Flashfire",
+      "0": "Flame Body",
+      "1": "Flash Fire",
       "H": "Reckless"
     },
     "eggGroups": [
@@ -2300,8 +2301,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 15
     },
     "abilities": {
-      "0": "Innerfocus",
-      "1": "Lightningrod",
+      "0": "Inner Focus",
+      "1": "Lightning Rod",
       "H": "Regenerator"
     },
     "eggGroups": [
@@ -2330,8 +2331,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 110
     },
     "abilities": {
-      "0": "Innerfocus",
-      "1": "Lightningrod",
+      "0": "Inner Focus",
+      "1": "Lightning Rod",
       "H": "Regenerator"
     },
     "eggGroups": [
@@ -2359,8 +2360,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Leafguard",
-      "H": "Roughskin"
+      "0": "Leaf Guard",
+      "H": "Rough Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2387,8 +2388,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Leafguard",
-      "H": "Roughskin"
+      "0": "Leaf Guard",
+      "H": "Rough Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2415,8 +2416,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 80
     },
     "abilities": {
-      "0": "Leafguard",
-      "H": "Roughskin"
+      "0": "Leaf Guard",
+      "H": "Rough Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2443,7 +2444,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 25
     },
     "abilities": {
-      "0": "Weakarmor",
+      "0": "Weak Armor",
       "H": "Hydration"
     },
     "eggGroups": [
@@ -2472,7 +2473,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Weakarmor",
+      "0": "Weak Armor",
       "H": "Hydration"
     },
     "eggGroups": [
@@ -2500,8 +2501,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Toughclaws",
-      "H": "Icebody"
+      "0": "Tough Claws",
+      "H": "Ice Body"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2528,8 +2529,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Toughclaws",
-      "H": "Icebody"
+      "0": "Tough Claws",
+      "H": "Ice Body"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2557,7 +2558,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Mummy",
-      "H": "Poisontouch"
+      "H": "Poison Touch"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2585,8 +2586,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Stench",
-      "1": "Stickyhold",
-      "H": "Poisontouch"
+      "1": "Sticky Hold",
+      "H": "Poison Touch"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2613,9 +2614,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 20
     },
     "abilities": {
-      "0": "Sapsipper",
-      "1": "Weakarmor",
-      "H": "Hypercutter"
+      "0": "Sap Sipper",
+      "1": "Weak Armor",
+      "H": "Hyper Cutter"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2643,9 +2644,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Sapsipper",
-      "1": "Weakarmor",
-      "H": "Hypercutter"
+      "0": "Sap Sipper",
+      "1": "Weak Armor",
+      "H": "Hyper Cutter"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2674,7 +2675,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Cursedbody",
+      "1": "Cursed Body",
       "H": "Sayolda"
     },
     "eggGroups": [
@@ -2704,7 +2705,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Levitate",
-      "1": "Cursedbody",
+      "1": "Cursed Body",
       "H": "Sayolda"
     },
     "eggGroups": [
@@ -2792,8 +2793,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 42
     },
     "abilities": {
-      "0": "Wonderskin",
-      "H": "Innerfocus"
+      "0": "Wonder Skin",
+      "H": "Inner Focus"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2821,8 +2822,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Wonderskin",
-      "H": "Innerfocus"
+      "0": "Wonder Skin",
+      "H": "Inner Focus"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2850,9 +2851,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Stormdrain",
-      "1": "Flowergift",
-      "H": "Sheerforce"
+      "0": "Storm Drain",
+      "1": "Flower Gift",
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2880,9 +2881,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Stormdrain",
-      "1": "Flowergift",
-      "H": "Sheerforce"
+      "0": "Storm Drain",
+      "1": "Flower Gift",
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2912,7 +2913,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Simple",
       "1": "Rivalry",
-      "H": "Noguard"
+      "H": "No Guard"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2942,7 +2943,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Simple",
       "1": "Rivalry",
-      "H": "Noguard"
+      "H": "No Guard"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2970,8 +2971,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 20
     },
     "abilities": {
-      "0": "Moldbreaker",
-      "H": "Moldbreaker"
+      "0": "Mold Breaker",
+      "H": "Mold Breaker"
     },
     "eggGroups": [
       "Undiscovered"
@@ -2999,7 +3000,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 55
     },
     "abilities": {
-      "0": "Clearbody",
+      "0": "Clear Body",
       "H": "Harvest"
     },
     "eggGroups": [
@@ -3028,8 +3029,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 35
     },
     "abilities": {
-      "0": "Moldbreaker",
-      "H": "Battlearmor"
+      "0": "Mold Breaker",
+      "H": "Battle Armor"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3056,7 +3057,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 110
     },
     "abilities": {
-      "0": "Poisonpoint",
+      "0": "Poison Point",
       "H": "Moxie"
     },
     "eggGroups": [
@@ -3084,7 +3085,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 120
     },
     "abilities": {
-      "0": "Poisonpoint",
+      "0": "Poison Point",
       "H": "Moxie"
     },
     "eggGroups": [
@@ -3113,8 +3114,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Poisonpoint",
-      "H": "Innerfocus"
+      "0": "Poison Point",
+      "H": "Inner Focus"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3142,8 +3143,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 55
     },
     "abilities": {
-      "0": "Sandrush",
-      "H": "Sandstream"
+      "0": "Sand Rush",
+      "H": "Sand Stream"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3171,8 +3172,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 75
     },
     "abilities": {
-      "0": "Sandrush",
-      "H": "Sandstream"
+      "0": "Sand Rush",
+      "H": "Sand Stream"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3200,7 +3201,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Toughclaws"
+      "0": "Tough Claws"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3229,8 +3230,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Pickup",
-      "1": "Snowcloak",
-      "H": "Thickfat"
+      "1": "Snow Cloak",
+      "H": "Thick Fat"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3259,8 +3260,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Pickup",
-      "1": "Snowcloak",
-      "H": "Thickfat"
+      "1": "Snow Cloak",
+      "H": "Thick Fat"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3288,8 +3289,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Swiftswim",
-      "1": "Raindish",
+      "0": "Swift Swim",
+      "1": "Rain Dish",
       "H": "Drizzle"
     },
     "eggGroups": [
@@ -3318,8 +3319,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 120
     },
     "abilities": {
-      "0": "Swiftswim",
-      "1": "Solarpower",
+      "0": "Swift Swim",
+      "1": "Solar Power",
       "H": "Drought"
     },
     "eggGroups": [
@@ -3348,9 +3349,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 40
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Snowcloak",
-      "H": "Galewings"
+      "0": "Keen Eye",
+      "1": "Snow Cloak",
+      "H": "Gale Wings"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3378,9 +3379,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Keeneye",
-      "1": "Snowcloak",
-      "H": "Galewings"
+      "0": "Keen Eye",
+      "1": "Snow Cloak",
+      "H": "Gale Wings"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3408,8 +3409,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Ironfist",
-      "H": "Moldbreaker"
+      "0": "Iron Fist",
+      "H": "Mold Breaker"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3437,8 +3438,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 123
     },
     "abilities": {
-      "0": "Poisontouch",
-      "H": "Weakarmor"
+      "0": "Poison Touch",
+      "H": "Weak Armor"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3468,7 +3469,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Synchronize",
       "1": "Telepathy",
-      "H": "Snowwarning"
+      "H": "Snow Warning"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3498,7 +3499,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "abilities": {
       "0": "Synchronize",
       "1": "Telepathy",
-      "H": "Snowwarning"
+      "H": "Snow Warning"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3524,7 +3525,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Chlorophyll",
-      "1": "Solarpower",
+      "1": "Solar Power",
       "H": "Drought"
     },
     "eggGroups": [
@@ -3551,7 +3552,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Chlorophyll",
-      "1": "Solarpower",
+      "1": "Solar Power",
       "H": "Drought"
     },
     "eggGroups": [
@@ -3579,7 +3580,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Compoundeyes",
+      "0": "Compound Eyes",
       "H": "Steadfast"
     },
     "eggGroups": [
@@ -3607,8 +3608,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 95
     },
     "abilities": {
-      "0": "Compoundeyes",
-      "H": "Dryskin"
+      "0": "Compound Eyes",
+      "H": "Dry Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3636,8 +3637,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 105
     },
     "abilities": {
-      "0": "Compoundeyes",
-      "H": "Vitalspirit"
+      "0": "Compound Eyes",
+      "H": "Vital Spirit"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3664,7 +3665,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 55
     },
     "abilities": {
-      "0": "Vitalspirit",
+      "0": "Vital Spirit",
       "H": "Arepaquemada"
     },
     "eggGroups": [
@@ -3693,7 +3694,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 85
     },
     "abilities": {
-      "0": "Solidrock",
+      "0": "Solid Rock",
       "H": "Moxie"
     },
     "eggGroups": [
@@ -3722,9 +3723,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 110
     },
     "abilities": {
-      "0": "Tintedlens",
+      "0": "Tinted Lens",
       "1": "Swarm",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3752,9 +3753,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 80
     },
     "abilities": {
-      "0": "Strongjaw",
-      "1": "Roughskin",
-      "H": "Toughclaws"
+      "0": "Strong Jaw",
+      "1": "Rough Skin",
+      "H": "Tough Claws"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3782,9 +3783,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 81
     },
     "abilities": {
-      "0": "Strongjaw",
-      "1": "Roughskin",
-      "H": "Toughclaws"
+      "0": "Strong Jaw",
+      "1": "Rough Skin",
+      "H": "Tough Claws"
     },
     "eggGroups": [
       "Undiscovered"
@@ -3922,7 +3923,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Gooey",
-      "H": "Quickfeet"
+      "H": "Quick Feet"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4006,7 +4007,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Gooey",
-      "H": "Weakarmor"
+      "H": "Weak Armor"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4034,7 +4035,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Gooey",
-      "H": "Weakarmor"
+      "H": "Weak Armor"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4120,7 +4121,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 93
     },
     "abilities": {
-      "0": "Solidrock",
+      "0": "Solid Rock",
       "H": "Intimidate"
     },
     "eggGroups": [
@@ -4149,7 +4150,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 80
     },
     "abilities": {
-      "0": "Solidrock",
+      "0": "Solid Rock",
       "H": "Intimidate"
     },
     "eggGroups": [
@@ -4177,8 +4178,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 85
     },
     "abilities": {
-      "0": "Flowerveil",
-      "H": "Sapsipper"
+      "0": "Flower Veil",
+      "H": "Sap Sipper"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4207,7 +4208,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Levitate",
-      "H": "Sapsipper"
+      "H": "Sap Sipper"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4235,8 +4236,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Aromaveil",
-      "H": "Cloudnine"
+      "0": "Aroma Veil",
+      "H": "Cloud Nine"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4264,8 +4265,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 50
     },
     "abilities": {
-      "0": "Superluck",
-      "H": "Marvelscale"
+      "0": "Super Luck",
+      "H": "Marvel Scale"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4293,8 +4294,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Superluck",
-      "H": "Marvelscale"
+      "0": "Super Luck",
+      "H": "Marvel Scale"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4322,7 +4323,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 80
     },
     "abilities": {
-      "0": "Superluck",
+      "0": "Super Luck",
       "H": "Multiscale"
     },
     "eggGroups": [
@@ -4351,7 +4352,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Bigpecks",
+      "0": "Big Pecks",
       "H": "Unnerve"
     },
     "eggGroups": [
@@ -4379,7 +4380,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Fairyaura",
+      "0": "Fairy Aura",
       "H": "Hustle"
     },
     "eggGroups": [
@@ -4408,8 +4409,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 45
     },
     "abilities": {
-      "0": "Solidrock",
-      "H": "Ironbarbs"
+      "0": "Solid Rock",
+      "H": "Iron Barbs"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4437,8 +4438,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 60
     },
     "abilities": {
-      "0": "Solidrock",
-      "H": "Ironbarbs"
+      "0": "Solid Rock",
+      "H": "Iron Barbs"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4466,8 +4467,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 80
     },
     "abilities": {
-      "0": "Solidrock",
-      "H": "Ironbarbs"
+      "0": "Solid Rock",
+      "H": "Iron Barbs"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4496,7 +4497,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Intimidate",
-      "H": "Darkaura"
+      "H": "Dark Aura"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4525,7 +4526,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Intimidate",
-      "H": "Darkaura"
+      "H": "Dark Aura"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4554,7 +4555,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Intimidate",
-      "H": "Darkaura"
+      "H": "Dark Aura"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4582,9 +4583,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 100
     },
     "abilities": {
-      "0": "Magicbounce",
+      "0": "Magic Bounce",
       "1": "Synchronize",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4613,7 +4614,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Pressure",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4639,7 +4640,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Pressure",
-      "H": "Sheerforce"
+      "H": "Sheer Force"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4741,7 +4742,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 70
     },
     "abilities": {
-      "0": "Darkaura"
+      "0": "Dark Aura"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4766,7 +4767,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 120
     },
     "abilities": {
-      "0": "Wonderskin"
+      "0": "Wonder Skin"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4791,7 +4792,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 110
     },
     "abilities": {
-      "0": "Purepower"
+      "0": "Pure Power"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4867,8 +4868,8 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 30
     },
     "abilities": {
-      "0": "Shedskin",
-      "1": "Dryskin",
+      "0": "Shed Skin",
+      "1": "Dry Skin",
       "H": "Infiltrator"
     },
     "eggGroups": [
@@ -4897,9 +4898,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 40
     },
     "abilities": {
-      "0": "Shedskin",
-      "1": "Dryskin",
-      "H": "Waterabsorb"
+      "0": "Shed Skin",
+      "1": "Dry Skin",
+      "H": "Water Absorb"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4927,9 +4928,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 76
     },
     "abilities": {
-      "0": "Vitalspirit",
-      "1": "Magicbounce",
-      "H": "Purepower"
+      "0": "Vital Spirit",
+      "1": "Magic Bounce",
+      "H": "Pure Power"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4958,7 +4959,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     },
     "abilities": {
       "0": "Levitate",
-      "H": "Cloudnine"
+      "H": "Cloud Nine"
     },
     "eggGroups": [
       "Undiscovered"
@@ -4983,7 +4984,7 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 90
     },
     "abilities": {
-      "0": "Quickfeet",
+      "0": "Quick Feet",
       "1": "Technician",
       "H": "Guts"
     },
@@ -5013,9 +5014,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 50
     },
     "abilities": {
-      "0": "Roughskin",
+      "0": "Rough Skin",
       "1": "Levitate",
-      "H": "Thickfat"
+      "H": "Thick Fat"
     },
     "eggGroups": [
       "Undiscovered"
@@ -5043,9 +5044,9 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
       "spe": 85
     },
     "abilities": {
-      "0": "Roughskin",
+      "0": "Rough Skin",
       "1": "Levitate",
-      "H": "Superluck"
+      "H": "Super Luck"
     },
     "eggGroups": [
       "Undiscovered"
@@ -5057,4 +5058,4 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "heightm": 4,
     "weightkg": 100
   }
-};
+}
