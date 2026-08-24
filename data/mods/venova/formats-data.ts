@@ -260,7 +260,7 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
   "hormiwar": {
     "tier": "OU"
   },
-  "knock": {
+  "knoc": {
     "tier": "OU"
   },
   "petroger": {
