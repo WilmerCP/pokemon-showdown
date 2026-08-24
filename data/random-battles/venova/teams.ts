@@ -88,7 +88,7 @@ const CUSTOM_SPECIES =  [
   "ocycry",
   "hormoso",
   "hormiwar",
-  "knock",
+  "knoc",
   "petroger",
   "jumpter",
   "jumrock",
