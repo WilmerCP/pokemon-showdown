@@ -3504,7 +3504,10 @@ export const Pokedex: import('../../../sim/dex-species').ModdedSpeciesDataTable 
     "eggGroups": [
       "Undiscovered"
     ],
-    "gender": "N",
+    "genderRatio": {
+      "M": 0.5,
+      "F": 0.5
+    },
     "heightm": 3.5,
     "weightkg": 88
   },
